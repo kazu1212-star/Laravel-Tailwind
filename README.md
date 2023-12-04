@@ -8,11 +8,11 @@ cp .env{.example,}
 
 composer install
 
+php artisan key:generate
+
 sail up -d
 
 sail npm install
-
-php artisan key:generate
 
 sail npm run build
 
