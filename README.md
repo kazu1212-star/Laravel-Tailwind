@@ -16,4 +16,4 @@ php artisan key:generate
 
 sail npm run build
 
-npm run dev
+sail npm run dev
