@@ -19,3 +19,6 @@ sail npm run build
 sail npm run dev
 
 http://localhost をリロードしてフォームが正しく表示されていれば OK
+
+tailwind cssを使いたいファイルで冒頭に
+@extends('layouts.app') を記述すれば使えます。
