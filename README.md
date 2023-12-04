@@ -17,3 +17,5 @@ php artisan key:generate
 sail npm run build
 
 sail npm run dev
+
+http://localhost をリロードしてフォームが正しく表示されていれば OK
