@@ -4,6 +4,8 @@ git clone https://github.com/kazu1212-star/laravel-tailwind-css
 
 cd laravel-tailwind-css
 
+git remote set-url origin [新規作成したリポジトリ]
+
 cp .env{.example,}
 
 composer install
