@@ -26,4 +26,8 @@ http://localhost をリロードしてフォームが正しく表示されてい
 tailwind cssを使いたいファイルで冒頭に
 @extends('layouts.app') を記述すれば使えます。
 
+### Larastan実行
+`composer larastan`
 
+### Print実行
+`composer print`

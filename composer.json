@@ -34,7 +34,7 @@
         }
     },
     "scripts": {
-        "phpstan": [
+        "larastan": [
             "@php ./vendor/bin/phpstan analyse -c phpstan.neon --memory-limit=1G"
         ],
         "pint": [
