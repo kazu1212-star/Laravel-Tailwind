@@ -1,8 +1,8 @@
 # laravel-tailwind-css
 
-git clone https://github.com/kazu1212-star/laravel-tailwind-css
+git clone https://github.com/kazu1212-star/set_laravel
 
-cd laravel-tailwind-css
+cd set_laravel
 
 git remote set-url origin 新規作成したリポジトリurl
 
