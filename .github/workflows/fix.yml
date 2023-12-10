@@ -1,8 +1,12 @@
 name: my-laravel-ci
 
-on: [push, pull_request]
-  paths:
-      - "laravel-tailwindcss/**.php"
+on:
+  push:
+    paths:
+      - "**.php"
+  pull_request:
+    paths:
+      - "**.php"
 
 jobs:
   my-laravel-ci:
