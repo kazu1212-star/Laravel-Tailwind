@@ -2,7 +2,7 @@
 
 git clone https://github.com/kazu1212-star/referral-recruiting
 
-cd set_laravel
+cd referral-recruiting
 
 git remote set-url origin 新規作成したリポジトリurl
 
