@@ -1,6 +1,6 @@
 # laravel-tailwind-css
 
-git clone https://github.com/kazu1212-star/set_laravel
+git clone https://github.com/kazu1212-star/referral-recruiting
 
 cd set_laravel
 
